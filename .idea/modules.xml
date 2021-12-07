@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../actividades/.idea/bia.iml" filepath="$PROJECT_DIR$/../actividades/.idea/bia.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/brainbox-landing.iml" filepath="$PROJECT_DIR$/.idea/brainbox-landing.iml" />
     </modules>
   </component>
